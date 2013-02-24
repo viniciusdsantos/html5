@@ -1,3 +1,20 @@
+/**
+ * whiteboard.js
+ *
+ * whiteboard.js is a board tool based on the power of html5 canvas
+ * works in modern browsers.
+ *
+ *
+ * Copyright 2013 Vinicius Santos
+ *
+ * Released under the MIT and GPL Licenses.
+ *
+ * ------------------------------------------------
+ *  author:  Vinicius Santos
+ *  version: 0.0.1
+ *  source:  http://github.com/viniciusdsantos/html5/
+ */
+ 
 var Whiteboard = {}; //Main Class
 
 Whiteboard.Element = new function(){ //Class Element

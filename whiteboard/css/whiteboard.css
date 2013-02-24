@@ -1,6 +1,6 @@
 canvas{
 	border: 5px solid #000;
-	cursor: url("pencil.png"), default;
+	cursor: url("../images/pencil.png"), default;
 	left:50%;
 	height: 400px;
 	margin: 0 0 0 -250px;	
